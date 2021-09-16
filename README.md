@@ -4,8 +4,14 @@ My take on the analysis of the titanic dataset using R. Tried implementing diffe
 
 After submission got the score 0.77751 
 
-
+### About
 Titanic ML competition is a well known chalange to familiarize oneself with the ML challanges.
+>There are two dataset with same attributes:
+ *train.csv
+ *test.csv
+>train.csv will contain the details of a subset of the passengers on board (891 to be exact) and importantly, will reveal whether they survived or not.
+>test.csv dataset contains similar information but does not disclose if the passenger survivd or not. It’s our job to predict these outcomes.
+
 
 ### Target
 
