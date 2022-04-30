@@ -2,7 +2,7 @@
 
 My take on the analysis of the titanic dataset using R.
 
-Implementied different ML models
+Implemented different ML models
 - Logistic Regression
 - Decision Tree Classifier
 - Naive Bayes classifier
@@ -12,7 +12,7 @@ Got the highest accuracy with the Random forest model.
 
 **After submission got the score 0.77751** 
 
-### About
+## About
 Titanic ML competition is a well known chalange to familiarize oneself with ML challanges.
 
 There are two dataset with same attributes:
@@ -22,6 +22,6 @@ There are two dataset with same attributes:
 2. test.csv
    - test.csv dataset contains similar information but does not disclose if the passenger survivd or not. It’s our job to predict these outcomes.
 
-### Target
+## Target
 
 The Target of the chalange is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
